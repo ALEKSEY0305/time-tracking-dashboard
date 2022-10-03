@@ -11,6 +11,10 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Switch between viewing Daily, Weekly, and Monthly stats
 
+## Screenshots:
+<img src="https://github.com/ALEKSEY0305/time-tracking-dashboard/blob/main/screenshots/desktop-daily.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 
 # My process
 
