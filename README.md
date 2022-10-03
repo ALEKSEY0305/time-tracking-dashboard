@@ -12,7 +12,9 @@ Users should be able to:
 - Switch between viewing Daily, Weekly, and Monthly stats
 
 ## Screenshots:
-<img src="https://github.com/ALEKSEY0305/time-tracking-dashboard/blob/main/screenshots/desktop-daily.png" width="500"  title="FDesktop Daily">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ALEKSEY0305/time-tracking-dashboard/blob/main/screenshots/desktop-daily.png" width="500"  title="Desktop Daily">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/ALEKSEY0305/time-tracking-dashboard/blob/main/screenshots/desktop-weekly.png" width="500"  title="Desktop Weekly">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/ALEKSEY0305/time-tracking-dashboard/blob/main/screenshots/desktop-monthly.png" width="500"  title="Desktop Monthly">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 
 
 
