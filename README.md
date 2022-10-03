@@ -12,8 +12,19 @@ Users should be able to:
 - Switch between viewing Daily, Weekly, and Monthly stats
 
 ## Screenshots:
-<img src="https://github.com/ALEKSEY0305/time-tracking-dashboard/blob/main/screenshots/desktop-daily.png" width="500"  title="Desktop Daily">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/ALEKSEY0305/time-tracking-dashboard/blob/main/screenshots/desktop-weekly.png" width="500"  title="Desktop Weekly">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/ALEKSEY0305/time-tracking-dashboard/blob/main/screenshots/desktop-monthly.png" width="500"  title="Desktop Monthly">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+1. Desktop Daily
+<img src="https://github.com/ALEKSEY0305/time-tracking-dashboard/blob/main/screenshots/desktop-daily.png" width="500"  title="Desktop Daily">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+2. Desktop Weekly
+<img src="https://github.com/ALEKSEY0305/time-tracking-dashboard/blob/main/screenshots/desktop-weekly.png" width="500"  title="Desktop Weekly">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+3. Desktop Monthly
+<img src="https://github.com/ALEKSEY0305/time-tracking-dashboard/blob/main/screenshots/desktop-monthly.png" width="500"  title="Desktop Monthly">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+4. Mobile Daily
+<img src="https://github.com/ALEKSEY0305/time-tracking-dashboard/blob/main/screenshots/mobile-daily.png" width="auto"  title="Mobile Daily">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+6. Mobile Weekly
+<img src="https://github.com/ALEKSEY0305/time-tracking-dashboard/blob/main/screenshots/mobile-weekly.png" width="auto"  title="Mobile Daily">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+8. Mobile Monthly
+<img src="https://github.com/ALEKSEY0305/time-tracking-dashboard/blob/main/screenshots/mobile-monthly.png" width="auto"  title="Mobile Daily">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
